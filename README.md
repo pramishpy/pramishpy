@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a **Computer Science** student at **The University of Southern Mississippi** and a **Research Software Engineer**. I specialize in building full-stack applications that solve real-world problems, with a focus on data engineering and visualization.
 
@@ -32,7 +32,7 @@ I am a **Computer Science** student at **The University of Southern Mississippi*
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
 

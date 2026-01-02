@@ -67,7 +67,7 @@ I am a **Computer Science** student at **The University of Southern Mississippi*
 </div>
 
 ---
-
+![Snake animation](https://github.com/pramishpy/pramishpy/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <p><i>Let's build something amazing together.</i></p>
 </div>

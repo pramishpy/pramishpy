@@ -26,10 +26,9 @@
 
 I am a **Computer Science** student at **The University of Southern Mississippi** and a **Research Software Engineer**. I specialize in building full-stack applications that solve real-world problems, with a focus on data engineering and visualization.
 
-- 🔭 I’m currently working on **Data pipelines for Polymer Science research**.
-- 🌱 I’m currently learning **Advanced System Design** and **Prompt Engineering**.
-- 💡 I enjoy turning complex data into **interactive dashboards**.
-- 🚀 **Fun Fact:** I once reduced manual data entry time by **97%** for a research lab using Python.
+-  I’m currently working on **Data pipelines for Polymer Science research**.
+-  I’m currently learning **Advanced System Design** and **Prompt Engineering**.
+-  I enjoy turning complex data into **interactive dashboards**.
 
 ---
 

@@ -54,21 +54,6 @@ I am a **Computer Science** student at **The University of Southern Mississippi*
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  [![Pramish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramishpy)](https://github.com/pramishpy/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=pramishpy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramishpy&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br />
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramishpy&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-![Snake animation](https://github.com/pramishpy/pramishpy/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <p><i>Let's build something amazing together.</i></p>
 </div>

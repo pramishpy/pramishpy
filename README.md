@@ -44,7 +44,7 @@ I am a **Computer Science** student at **The University of Southern Mississippi*
 
 ---
 
-### 🏆 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
